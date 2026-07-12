@@ -1855,6 +1855,12 @@ select:focus {
     repeating-conic-gradient(#20242e 0% 25%, #262b36 0% 50%) 0 0 / 16px 16px;
 }
 
+.xt-canvas-wrap canvas,
+canvas.xt-thumb {
+  /* the app hides all canvases globally until re-shown; ours are always live */
+  display: block;
+}
+
 .xt-canvas-wrap canvas {
   image-rendering: pixelated;
   max-width: 100%;
