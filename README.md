@@ -10,6 +10,8 @@
 ![TypeScript](https://img.shields.io/badge/TypeScript-blue)
 ![Vite](https://img.shields.io/badge/Vite-646CFF)
 
+> **Note:** This repo is originally from **[HappyOnigiri/PixelRefiner](https://github.com/HappyOnigiri/PixelRefiner)** by Happy Onigiri. This version adds extra tools and fixes on top of the original.
+
 ## Run it on your computer
 
 You only need [Node.js](https://nodejs.org/) (LTS version).

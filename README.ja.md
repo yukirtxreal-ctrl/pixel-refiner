@@ -10,6 +10,8 @@
 ![TypeScript](https://img.shields.io/badge/TypeScript-blue)
 ![Vite](https://img.shields.io/badge/Vite-646CFF)
 
+> **Note:** このリポジトリの元は **[HappyOnigiri/PixelRefiner](https://github.com/HappyOnigiri/PixelRefiner)**（Happy Onigiri さん作）です。このバージョンはオリジナルに追加ツールと修正を加えたものです。
+
 ## パソコンで動かす
 
 必要なのは [Node.js](https://nodejs.org/)（LTS 版）だけです。

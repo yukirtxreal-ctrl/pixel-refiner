@@ -10,6 +10,8 @@
 ![TypeScript](https://img.shields.io/badge/TypeScript-blue)
 ![Vite](https://img.shields.io/badge/Vite-646CFF)
 
+> **注：** 本仓库源自 Happy Onigiri 的 **[HappyOnigiri/PixelRefiner](https://github.com/HappyOnigiri/PixelRefiner)**。此版本在原版基础上加入了额外的工具和修复。
+
 ## 在你的电脑上运行
 
 只需要安装 [Node.js](https://nodejs.org/)（LTS 版本）。
