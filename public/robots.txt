@@ -1,0 +1,3 @@
+# Pixel Refiner - robots.txt
+User-agent: *
+Allow: /
